@@ -1,0 +1,1 @@
+# Shaarli-SSO-SimpleSAMLphp
