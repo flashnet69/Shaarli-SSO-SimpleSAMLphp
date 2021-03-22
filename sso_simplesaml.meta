@@ -1,0 +1,3 @@
+description="Connection via SSO using SimpleSAMLphp"
+parameters="SSO_SIMPLESAML_PATH"
+parameter.SSO_SIMPLESAML_PATH="Path of files to include SimpleSAMLphp"
